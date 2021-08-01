@@ -5,7 +5,7 @@
   
 ### 一切的开始clone命令和pull
 
-我们首先需要下载git程序，打开git官网https://git-scm.com/：
+我们首先需要下载git程序，打开git官网https://git-scm.com/ ：
 
 ![](https://oss.v8cloud.cn/markdown/a984c288a376abaf1c8ddc7959912fa4.png)
 
@@ -19,7 +19,7 @@ git --version
 
 ![](https://oss.v8cloud.cn/markdown/f8bff1c6c6d51b86ae68226f90d9d995.png)
 
-安装git之后，再到网站https://desktop.github.com/下载GitHub Desktop，如下图：
+安装git之后，再到网站https://desktop.github.com/ 下载GitHub Desktop，如下图：
 
 ![](https://oss.v8cloud.cn/markdown/9067cbbee5346638e044421375f4052d.png)
 
